@@ -65,21 +65,16 @@
     "links": [
       {
         "link1": {
-          "text": "Link to Wiki",
-          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
+          "text": "Discord",
+          "url": "https://discord.gg/Uy4Wgs8XJZ"
         }
       },
       {
         "link2": {
-          "text": "Link to discord",
-          "url": "https://discord.com/invite/K7NyrTV"
+          "text": "Donate",
+          "url": "https://www.paypal.com/donate/?business=EGPGH5TY4UTLW&no_recurring=0&item_name=Supporting+the+Server&currency_code=USD"
         }
       },
-      {
-        "link3": {
-          "text": "Link to google",
-          "url": "https://google.com"
-        }
       }
     ]
   }
