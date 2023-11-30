@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome Page & Rules</>",
                     "title1": "Welcome to GamesAhoy!",
-                    "text1": "<RichColor Color=\" 1,0.65,0,1\">Rules\n\nNo structure \n\nMo spamming Structures \n\nNo Blocking Caves \n\nNo Meshing \n\nPlease Stay out of areas that are incomplete!  \n\nIf you build a fob pick it up after your done raiding \n\nNo leaving dinos on wander/aggressive \n\nNo teaming up with other tribes against another player</>",
+                    "text1": "Rules\n\nNo structure \n\nMo spamming Structures \n\nNo Blocking Caves \n\nNo Meshing \n\nPlease Stay out of areas that are incomplete!  \n\nIf you build a fob pick it up after your done raiding \n\nNo leaving dinos on wander/aggressive \n\nHave Fun</>",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             },
@@ -28,8 +28,8 @@
                     "buttontext": "About",
                     "title1": "Left title",
                     "title2": "Right title",
-                    "text1": "This text goes into the left box",
-                    "text2": "This text goes into the right box",
+                    "text1": "What Should Go Here?",
+                    "text2": "What Should Go Here?",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             },
@@ -38,11 +38,11 @@
                     "layout": 3,
                     "buttontext": "Support",
                     "title1": "Questions?",
-                    "title2": "Contact a Admin",
+                    "title2": "Contact an Admin",
                     "title3": "Support the Server",
                     "text1": "If you have questions, or advice, or just looking for a group to play with join our Discord! ",
-                    "text2": "You can contact an admin through the discord",
-                    "text3": "By clicking donate youll be taken to a paypal page\n Feel Free to or not to donate\nAll Donations go to Server mMintenance",
+                    "text2": "You can contact an admin through our discord",
+                    "text3": "By clicking donate youll be taken to a paypal page\nFeel Free to or not to donate\nAll Donations go to Server Maintenance",
                     "imageurl": "https://postimg.cc/gr6HhFbj"
                 }
             }
